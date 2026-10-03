@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Background with rounded corners -->
+  <rect width="256" height="256" rx="60" fill="#6C63FF"/>
+  
+  <!-- Left Link -->
+  <path d="M 115 170 L 90 170 C 60 170 60 120 90 120 L 115 120" 
+        fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+        
+  <!-- Right Link -->
+  <path d="M 141 86 L 166 86 C 196 86 196 136 166 136 L 141 136" 
+        fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+        
+  <!-- Center connecting line -->
+  <line x1="95" y1="128" x2="161" y2="128" 
+        stroke="#FFFFFF" stroke-width="24" stroke-linecap="round"/>
+</svg>
